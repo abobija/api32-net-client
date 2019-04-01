@@ -2,3 +2,5 @@
 /NApi32/bin/
 /Napi32/obj/
 /packages/
+/bin/*.pdb
+/bin/*.xml
