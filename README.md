@@ -3,6 +3,12 @@
 
 ![](doc/img/napi32-ecosystem.png)
 
+## Demo
+
+## Demo
+[![C# controls ESP32 over wifi (with NApi32 REST client)](https://img.youtube.com/vi/1eqhiDS0irI/mqdefault.jpg)](https://www.youtube.com/watch?v=1eqhiDS0irI)
+
+
 ## Usage
 
 Let's suppose that you have published REST API with one **POST** `/led` endpoint which resposibility is to control the state of LED.
