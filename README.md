@@ -13,7 +13,7 @@ Let's suppose that you have published REST API with one **POST** `/led` endpoint
 
 *`init.lua`*
 
-```
+```lua
 api = require('api32')
     .create({
         auth = {
@@ -37,7 +37,7 @@ Then your C# application for turning the LED ON should looks something like this
 
 *`Program.cs`*
 
-```
+```c#
 class Program
 {
     static void Main(string[] args)
